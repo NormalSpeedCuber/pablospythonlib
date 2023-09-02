@@ -6,7 +6,7 @@ setup(
     version="0.1.0",
     description="A library where i'll add my functions",
     author="Pablo Cerda V.",
-    license="CI",
+    license="MIT",
     install_requires=[],
     setup_requires=["pytest-runner"],
     tests_require=["pytest==4.4.1"],
